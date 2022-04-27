@@ -1,2 +1,2 @@
 # Repositorio1
-Repositorio de expermitencación
+Repositorio de experimentación
